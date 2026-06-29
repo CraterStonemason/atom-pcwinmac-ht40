@@ -1,4 +1,4 @@
-# 
+# Premium Atom extensiones para Mac OS | Nuevo Atom extensiones para PC Windows. Con integración de terminal y monitorización de API — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
